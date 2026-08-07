@@ -34,3 +34,6 @@ Sports knowledge / uploaded document
  Relevant context is sent to the LLM
                 ↓
        Chatbot generates an answer
+
+
+ Run the code:python -m streamlit run app.py 
