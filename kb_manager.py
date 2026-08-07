@@ -1,7 +1,4 @@
-"""
-Knowledge Base Manager for the Sports Chatbot.
-Handles UI components and operations for managing the RAG knowledge base.
-"""
+
 
 import streamlit as st
 from pathlib import Path
