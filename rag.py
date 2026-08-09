@@ -48,7 +48,7 @@ class RAGSystem:
             # keeps normal retrieval independent of Hugging Face network access.
             cls._embedding_model = SentenceTransformer(
                 EMBEDDING_MODEL,
-                local_files_only=True,
+                
             )
         return cls._embedding_model
 
