@@ -36,4 +36,21 @@ Sports knowledge / uploaded document
        Chatbot generates an answer
 
 
- Run the code:python -m streamlit run app.py 
+ # Clone repository
+git clone https://github.com/your-username/Sportsbot.git
+
+# Move into project folder
+cd sports-ai-bot
+
+# Create virtual environment
+python -m venv venv
+
+# Activate environment
+venv\Scripts\activate     # Windows
+source venv/bin/activate  # Mac/Linux
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run application
+streamlit run app.py
