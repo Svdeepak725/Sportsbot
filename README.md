@@ -18,6 +18,8 @@ The project uses embedding models and a FAISS vector database for semantic searc
 ## How It Works
 
 Sports knowledge / uploaded document
+
+
                 ↓
          Split into chunks
                 ↓
