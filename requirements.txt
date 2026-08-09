@@ -14,6 +14,7 @@ sentence-transformers>=2.2.0
 numpy>=1.26.0
 pypdf>=4.0.0
 requests>=2.31.0
+google-generativeai
 
 # optional (for real multi-model later)
 # google-generativeai
