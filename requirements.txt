@@ -4,6 +4,7 @@ langgraph>=0.0.55
 langchain-openai>=0.1.7
 langchain-groq>=0.1.5
 langsmith>=0.1.30
+langchain-google-genai
 python-dotenv>=1.0.1
 
 # RAG dependencies
