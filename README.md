@@ -40,7 +40,7 @@ Sports knowledge / uploaded document
 git clone https://github.com/your-username/Sportsbot.git
 
 # Move into project folder
-cd sports-ai-bot
+cd Sportsbot
 
 # Create virtual environment
 python -m venv venv
